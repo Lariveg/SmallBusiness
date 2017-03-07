@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Small Business</string>
+
+    <!--Business title and slogan-->
+    <string name="title">Strong Paw</string>
+    <string name="slogan">Because your cat deserves the best food</string>
+
+    <!--Business Info-->
+    <string name="location">Vitan\'s Street nr. 124 \nBucharest, Romania</string>
+    <string name="phone">0759 235 235</string>
+    <string name="email">strong_paw@gmail.com</string>
+    <string name="site">www.strong_paw.com</string>
+
+
+
+
+
+
+</resources>
